@@ -1,0 +1,65 @@
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.exe
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.deps.json
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.json
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Menu.resources
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Properties.Resources.resources
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfo.cs
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\usuario\Desktop\UNIVERSIDAD\6º CUATRI\SO\Proyecto_Parchis\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.genruntimeconfig.cache
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.exe
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.deps.json
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.json
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Menu.resources
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Properties.Resources.resources
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\usuario\Desktop\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.genruntimeconfig.cache
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.exe
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.deps.json
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.json
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Menu.resources
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Properties.Resources.resources
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\usuario\Desktop\PARCHIS\Version 1\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.genruntimeconfig.cache
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.exe
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.deps.json
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.json
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.runtimeconfig.dev.json
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\bin\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Menu.resources
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.Properties.Resources.resources
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.AssemblyInfo.cs
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.dll
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.pdb
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoParchis-main\PARCHIS\Proyecto_Parhis\Proyecto_Parhis\obj\Debug\netcoreapp3.1\Proyecto_Parhis.genruntimeconfig.cache
